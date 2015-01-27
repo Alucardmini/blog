@@ -62,6 +62,8 @@ h1, h2, #navigation { font-family: "Trebuchet MS", Arial, sans-serif;}
 .portfolio ul li{ float:left; width:222px; display:inline; margin-right:10px; height:277px; position:relative; overflow:hidden; }
 .portfolio ul li a{ display:block; width:222px; height:123px; background:url(../images/img.jpg); text-align: center; font-size:0; line-height:0; padding:9px 0 0 0; margin-bottom:13px; }
 
+.portfolio ul li b{ display:block; width:222px; height:285px; background:url(../images/img2.jpg); text-align: center; font-size:0; line-height:0; padding:9px 0 0 0; margin-bottom:13px; }
+
 .portfolio-nav a { font-size:0; line-height:0; text-indent: -4000px; width:60px; height:60px; top:113px; background:url(../images/portfolio-button.png); z-index:10; position:absolute; }
 .portfolio-nav a.prev { left:-80px;}
 .portfolio-nav a.next { left:706px;}
